@@ -27,7 +27,7 @@ This project helped me understand:
 
 Big realization:
 
-> Classes aren’t just syntax — they make managing state WAY easier.
+> Classes aren’t just syntax, they make managing state WAY easier.
 
 ---
 
